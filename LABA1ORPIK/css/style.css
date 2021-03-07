@@ -11,7 +11,7 @@ body{
     line-height: 150px;
 }
 .button__click:hover{
-background-color:red;
+    background-color:red;
 }
 .wrapper{
     width: 1200px;
@@ -27,6 +27,6 @@ span{
 }
 .title{
     font-size: 75px;
-text-align: center;
-color: rebeccapurple;
+    text-align: center;
+    color: rebeccapurple;
 }
